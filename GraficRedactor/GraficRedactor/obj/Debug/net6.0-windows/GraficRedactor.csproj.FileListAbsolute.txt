@@ -1,0 +1,17 @@
+D:\MVProjecte\GraficRedactor\GraficRedactor\bin\Debug\net6.0-windows\GraficRedactor.exe
+D:\MVProjecte\GraficRedactor\GraficRedactor\bin\Debug\net6.0-windows\GraficRedactor.deps.json
+D:\MVProjecte\GraficRedactor\GraficRedactor\bin\Debug\net6.0-windows\GraficRedactor.runtimeconfig.json
+D:\MVProjecte\GraficRedactor\GraficRedactor\bin\Debug\net6.0-windows\GraficRedactor.dll
+D:\MVProjecte\GraficRedactor\GraficRedactor\bin\Debug\net6.0-windows\GraficRedactor.pdb
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.Form1.resources
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.Properties.Resources.resources
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.csproj.GenerateResource.cache
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.AssemblyInfoInputs.cache
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.AssemblyInfo.cs
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.csproj.CoreCompileInputs.cache
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.dll
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\refint\GraficRedactor.dll
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.pdb
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\GraficRedactor.genruntimeconfig.cache
+D:\MVProjecte\GraficRedactor\GraficRedactor\obj\Debug\net6.0-windows\ref\GraficRedactor.dll
