@@ -1,0 +1,11 @@
+D:\MVProjecte\Architect\Architect\bin\Debug\Architect.exe.config
+D:\MVProjecte\Architect\Architect\bin\Debug\Architect.exe
+D:\MVProjecte\Architect\Architect\bin\Debug\Architect.pdb
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.csproj.AssemblyReference.cache
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.Form1.resources
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.Properties.Resources.resources
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.csproj.GenerateResource.cache
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.csproj.CoreCompileInputs.cache
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.exe
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.pdb
+D:\MVProjecte\Architect\Architect\obj\Debug\Architect.Form2.resources
