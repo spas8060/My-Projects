@@ -1,0 +1,14 @@
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto Service Client.csproj.AssemblyReference.cache
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto_Service_Client.CustomerForm.resources
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto_Service_Client.MainForm.resources
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto_Service_Client.Properties.Resources.resources
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto_Service_Client.WorkerForm.resources
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto Service Client.csproj.GenerateResource.cache
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto Service Client.csproj.CoreCompileInputs.cache
+D:\MVProjecte\Auto Service Client\Auto Service Client\bin\Debug\Database1.mdf
+D:\MVProjecte\Auto Service Client\Auto Service Client\bin\Debug\Database1_log.ldf
+D:\MVProjecte\Auto Service Client\Auto Service Client\bin\Debug\Auto Service Client.exe.config
+D:\MVProjecte\Auto Service Client\Auto Service Client\bin\Debug\Auto Service Client.exe
+D:\MVProjecte\Auto Service Client\Auto Service Client\bin\Debug\Auto Service Client.pdb
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto Service Client.exe
+D:\MVProjecte\Auto Service Client\Auto Service Client\obj\Debug\Auto Service Client.pdb
