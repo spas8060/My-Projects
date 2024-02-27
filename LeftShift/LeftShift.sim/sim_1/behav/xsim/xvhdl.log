@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/VivadoPRojects/LeftShift/LeftShift.srcs/sources_1/new/SimpleLeftShiftREgister.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'LeftShiftParallelRegister'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/VivadoPRojects/LeftShift/LeftShift.srcs/sim_1/new/LEFT_shift_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'LeftShiftParallelRegister_tb'

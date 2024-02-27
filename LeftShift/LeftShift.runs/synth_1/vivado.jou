@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue May 30 18:12:33 2023
+# Process ID: 24568
+# Current directory: D:/VivadoPRojects/LeftShift/LeftShift.runs/synth_1
+# Command line: vivado.exe -log LeftShiftParallelRegister.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source LeftShiftParallelRegister.tcl
+# Log file: D:/VivadoPRojects/LeftShift/LeftShift.runs/synth_1/LeftShiftParallelRegister.vds
+# Journal file: D:/VivadoPRojects/LeftShift/LeftShift.runs/synth_1\vivado.jou
+# Running On: DESKTOP-PBCJ6SL, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 17016 MB
+#-----------------------------------------------------------
+source LeftShiftParallelRegister.tcl -notrace
